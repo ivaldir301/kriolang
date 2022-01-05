@@ -1,7 +1,5 @@
-#Esse é o iniçio do projecto Kriol Language | Compiler
+# Kriolin
 
-
-README, ficheiro para informações sobre o projecto
-
+Esse repositório é do compilador da linguagem Kriolin
 
 
