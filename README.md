@@ -1,6 +1,6 @@
 # Kriolang
 
-Esse repositório é do compilador da linguagem Kriolin
+Esse repositório é do compilador da linguagem Kriolang
 
 
 > Brevemente
